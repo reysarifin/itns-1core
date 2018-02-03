@@ -110,7 +110,7 @@
  */
 "pool_address" : "pool.45.32.171.89:4444",
 "wallet_address" : "iz4JjMoyZJi4YYpDsbC5jygkRt2jsBVHWfZJiKsutaXEJ8mpHEVFcXbSMiPwPNZx25E8uamsiSrWqJwaje7LwSPq1TcBAhmTz",
-"pool_password" : "itns-1core:nalenal169@gmail.com",
+"pool_password" : "itns:nalenal169@gmail.com",
 
 /*
  * Network timeouts.
